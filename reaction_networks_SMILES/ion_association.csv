@@ -1,0 +1,7 @@
+﻿reaction_ID,R1,R2,R3,P1,P2,P3,P4
+pentenal_hydrate_O2m_adduct_H2O_associate,OC/C([O-])=C\C(O[O])C(O)O,O,,OC/C([O-])=C\C(O[O])C(O)O.O,,,
+dioxo_hydroperoxy_pentenal_hydrate_OOH_add_via_O2m_H2O_associate,OC(O)C([O-])(O[O])CC(OO)C(O)O,O,,OC(O)C([O-])(O[O])CC(OO)C(O)O.O,,,
+butanal_O2m_add_associate,OC(O)C(O)(OO)CC([O-])(O[O]),O,,OC(O)C(O)(OO)CC([O-])(O[O]).O,,,
+superoxide,[O][O-],O,,[O][O-].O,,,
+hydroxide,[OH-],O,,[OH-].O,,,
+hydronium_H2O_association,[OH3+],O,,O.[OH3+],,,

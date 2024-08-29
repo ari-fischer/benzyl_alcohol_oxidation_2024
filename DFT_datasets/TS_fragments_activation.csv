@@ -1,0 +1,9 @@
+,name,Calc,Smiles,path_l_geom,path_l_freq,notes
+18,TS_glyoxal_HT_OOH,TS_glyoxal_HT_OOH,OC(O)C(O)O+[O][OH]+->O[CH](O)C(O)O+OO++,/TS_glyoxal_HT_OOH,/TS_glyoxal_HT_OOH,
+19,TS_glyoxal_ald_OOH_add,TS_glyoxal_ald_OOH_add,OC(O)C=O+[O][OH]+->OC(O)C(O[O])O+++,/TS_glyoxal_ald_OOH_add,/TS_glyoxal_ald_OOH_add,
+20,TS_glyoxal_HT_ROO,TS_glyoxal_HT_ROO,OC(O)C(O)O+OCO[O]+->O[CH](O)C(O)O+OCOO++,/TS_glyoxal_HT_ROO,/TS_glyoxal_HT_ROO,
+21,TS_pentenal_hydrate_OOH_add_ene,TS_pentenal_hydrate_OOH_add_ene,OCC(=O)/C=C\C(O)O+[O][OH]+->OCC(=O)[CH]C(OO)C(O)O+++,/TS_pentenal_hydrate_OOH_add_ene,/TS_pentenal_hydrate_OOH_add_ene,
+22,TS_pentenal_hydrate_ROO_addition,TS_pentenal_hydrate_ROO_addition,OCC(=O)/C=C\C(O)O+OCO[O]+->OCC(=O)[CH]C(OOCO)C(O)O+++,/TS_pentenal_hydrate_ROO_addition,/TS_pentenal_hydrate_ROO_addition,
+23,TS_pentenal_hydrate_OOH_add_one,TS_pentenal_hydrate_OOH_add_one,OCC(=O)/C=C\C(O)O+[O][OH]+->OCC(O)(O[O])/C=C\C(O)O+++,/TS_pentenal_hydrate_OOH_add_one,/TS_pentenal_hydrate_OOH_add_one,
+24,TS_intra_HT,TS_intra_HT,OCC(O)(O[O])/C=C\C(O)O++->OCC(O)([O])/C=C\C(=O)O+O++,/TS_intra_HT,/TS_intra_HT,
+25,TS_peroxyl_OT,TS_peroxyl_OT,OCC(O)(O[O])/C=C\C(O)O+OCC(O)(O[O])/C=C\C(O)O+->OCC(O)([O])/C=C\C(O)O+OCC(O)([O])/C=C\C(O)O+[O][O]+,/TS_peroxyl_OT,/TS_peroxyl_OT,

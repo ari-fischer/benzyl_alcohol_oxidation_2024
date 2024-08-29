@@ -1,0 +1,9 @@
+﻿,reaction_ID,R1,R2,R3,P1,P2,P3,P4
+1,glyoxal_HT_OOH,OC(O)C(O)O,[O][OH],,O[CH](O)C(O)O,OO,,
+2,glyoxal_ald_OOH_add,OC(O)C=O,[O][OH],,OC(O)C(O[O])O,,,
+3,glyoxal_HT_ROO,OC(O)C(O)O,OCO[O],,O[CH](O)C(O)O,OCOO,,
+4,pentenal_hydrate_OOH_add_ene,OCC(=O)/C=C\C(O)O,[O][OH],,OCC(=O)[CH]C(OO)C(O)O,,,
+5,pentenal_hydrate_ROO_addition,OCC(=O)/C=C\C(O)O,OCO[O],,OCC(=O)[CH]C(OOCO)C(O)O,,,
+6,pentenal_hydrate_OOH_add_one,OCC(=O)/C=C\C(O)O,[O][OH],,OCC(O)(O[O])/C=C\C(O)O,,,
+7,intra-HT,OCC(O)(O[O])/C=C\C(O)O,,,OCC(O)([O])/C=C\C(=O)O,O,,
+8,O_transfer,OCC(O)(O[O])/C=C\C(O)O,OCC(O)(O[O])/C=C\C(O)O,,OCC(O)([O])/C=C\C(O)O,OCC(O)([O])/C=C\C(O)O,[O][O],

@@ -1,0 +1,15 @@
+,name,Calc,Smiles,path_l_geom,path_l_freq
+0,superoxide,superoxide,[O][O-],/superoxide,/superoxide
+1,water,water,O,/water,/water
+10,pentenal_14_alpha_beta_O2m_add,pentenal_14_alpha_beta_O2m_add,OC/C([O-])=C\C(O[O])C(O)O,/pentenal_14_alpha_beta_O2m_add,/pentenal_14_alpha_beta_O2m_add
+14,hydronium_H2O,hydronium_H2O,O.[OH3+],/hydronium_H2O,/hydronium_H2O
+30,dioxo_hydroperoxy_pentenal_hydrate_O2m_adduct_H2O_complex,dioxo_hydroperoxy_pentenal_hydrate_O2m_adduct_H2O_complex,OC(O)C([O-])(O[O])CC(OO)C(O)O.O,/dioxo_hydroperoxy_pentenal_hydrate_O2m_adduct_H2O_complex,/dioxo_hydroperoxy_pentenal_hydrate_O2m_adduct_H2O_complex
+31,pentenal_14_alpha_beta_O2m_add_H2O,pentenal_14_alpha_beta_O2m_add_H2O,OC/C([O-])=C\C(O[O])C(O)O.O,/pentenal_14_alpha_beta_O2m_add_H2O,/pentenal_14_alpha_beta_O2m_add_H2O
+32,superoxide_H2O,superoxide_H2O,[O][O-].O,/superoxide_H2O,/superoxide_H2O
+33,hydroxide_H2O_complex,hydroxide_H2O_complex,[OH-].O,/hydroxide_H2O_complex,/hydroxide_H2O_complex
+34,water,water,O,/water,/water
+35,hydroxide,hydroxide,[OH-],/hydroxide,/hydroxide
+39,butanal O2m adduct hydrate,butanal O2m adduct hydrate,OC(O)C(O)(OO)CC([O-])(O[O]).O,/butanal O2m adduct hydrate,/butanal O2m adduct hydrate
+52,dioxo_hydroperoxy_pentenal_hydrate_OOH_add_via_O2m,dioxo_hydroperoxy_pentenal_hydrate_OOH_add_via_O2m,OC(O)C([O-])(O[O])CC(OO)C(O)O,/dioxo_hydroperoxy_pentenal_hydrate_OOH_add_via_O2m,/dioxo_hydroperoxy_pentenal_hydrate_OOH_add_via_O2m
+53,butanal_O2m_add,butanal_O2m_add,OC(O)C(O)(OO)CC([O-])(O[O]),/butanal_O2m_add,/butanal_O2m_add
+59,hydronium,hydronium,[OH3+],/hydronium,/hydronium
