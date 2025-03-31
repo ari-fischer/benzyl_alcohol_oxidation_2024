@@ -1,0 +1,12 @@
+$end
+
+$rem
+   BASIS = 6-311++G**
+   JOB_TYPE = SP
+   METHOD = wB97M-V
+   SCF_ALGORITHM = DIIS_GDM
+   MAX_SCF_CYCLES = 400
+   SCF_CONVERGENCE = 7
+   THRESH = 12
+   Solvent_method = SMD
+$end

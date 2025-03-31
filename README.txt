@@ -10,4 +10,7 @@ A description of the contents, as quoted from the main text of the article, is:
 
 Version history:
 
+Updated-31 March 2025
+	Added DFT outputs from basis set convergence test
+
 Launched 29 Aug 2024 
